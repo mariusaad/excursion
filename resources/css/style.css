@@ -158,3 +158,36 @@
   100% {left: 0px;}
 }
 
+body {
+    background-color: black;
+    text-align: center;
+  }
+
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300px;
+    font-size: 42px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    color: grey;
+    font-family: Verdana;
+    font-size: 21px;
+}
+
+img {
+    padding: 10px;
+}
